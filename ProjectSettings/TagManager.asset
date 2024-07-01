@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TeleportEntry
+  - TeleportPlace
+  - RespawnHost
+  - RespawnClient
+  - Checkpoint1
+  - CheckpointSpawn
+  - Checkpoint2
+  - CheckpointSpawn2
+  - Stop
+  - Marcador
+  - TotalScore
+  - Angle
+  - CurrentScore
+  - Factor
+  - CurrendDrift
+  - DriftPanel
+  - PlayerCar
+  - Trigggger
+  - HostPlayer
+  - ClientPlayer
+  - Ground
+  - Timer Text
+  - StopTimer
+  - StartTimer
+  - TimerText
+  - SpeedLabel
+  - SpeedArrow
+  - Esquina
+  - Blocks
+  - IaCar
+  - Coin
+  - TriggggerVertical
+  - ClientSet
+  - RemoveTrigger
+  - GondolaButton
+  - ClientVerticalSet
+  - TeleportEntrySecond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
